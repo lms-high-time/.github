@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Процессная политика
+    url: https://github.com/lms-high-time/learning-services/blob/master/CLAUDE.md
+    about: Как здесь ведутся ишью, ветки, коммиты и PR. Прочитать до первой правки.
+  - name: Живой статус проекта
+    url: https://github.com/lms-high-time/learning-services/issues/2
+    about: Единственный дом статуса — что сейчас в работе и чем закончилось прошлое.
